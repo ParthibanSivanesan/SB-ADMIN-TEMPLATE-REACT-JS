@@ -1,0 +1,13 @@
+.drp-dwn{
+   width: 10px;
+}
+
+.dropdown-toggle{
+   display: flex;
+   align-items: center;
+}
+
+.txt-css{
+   font-size:large;
+   padding: 10px;
+}

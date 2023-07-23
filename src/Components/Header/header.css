@@ -1,0 +1,13 @@
+.bell-move{
+    align-items: center;
+}
+
+
+.profile-css{
+    width: 200px;
+    display: flex;
+    padding-top: 20px;
+    justify-content: center;
+    color: #05892e;
+    font-weight: bold;
+}
